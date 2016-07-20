@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.header {
+    min-height: 70px;
+    background-color: #434753;
+    border-bottom: 2px solid #2f323b;
+}
+.search {
+    margin-top: 25px;
+}
+.result ul  {
+    font-size: 18px;
+    color: #70737f;
+    list-style: none;
+}
+.footer {
+    height: 80px;
+    width: 100%;
+    background-color: #2f323b;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+}
+.footer ul {
+    list-style: none;
+    margin-bottom: 0;
+}
+.footer li {
+    display: inline-block;
+    padding: 15px 50px;
+    line-height: 50px;
+}
